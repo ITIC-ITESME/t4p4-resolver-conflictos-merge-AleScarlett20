@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+#Los conflictos tienen que resolverse 
