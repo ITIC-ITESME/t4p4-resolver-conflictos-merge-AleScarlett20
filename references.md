@@ -1,1 +1,1 @@
-Los conflictos tienen que resolverse 
+#Los conflictos tienen que resolverse 
